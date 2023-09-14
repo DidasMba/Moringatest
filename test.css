@@ -40,9 +40,12 @@ button:hover{
 
 /*landing PAGE*/
 #landing-page{
+    height: 80vh;
+
     width: 70vw;
     margin: auto;
     display: flex;
+    align-items: center;
 }
 
 #landing-page .column{
@@ -53,3 +56,24 @@ button:hover{
 }
 
 
+/*Footer */
+
+footer{
+
+    background-color: black;
+    color :white;
+    padding: 5%;
+    font-weight: 100;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+footer #row1{
+    text-align: center;
+    margin-bottom: 40px;
+    line-height: 35px;
+}
+
+footer .row2
+{
+    
+}
